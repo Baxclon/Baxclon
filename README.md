@@ -1,0 +1,3 @@
+- Hola papus, soy el Bax :v
+- Ando practicando html, asi que aun sigo empeñado en eso
+- Ayuda se me olvido como programar en luau
